@@ -34,7 +34,7 @@ namespace Calculator
             Output.Text = $"{result}";
         }
 
-        private void Exponentiation_Click_1(object sender, RoutedEventArgs e)
+        private void Exponentiation_Click(object sender, RoutedEventArgs e)
         {
             double number = double.Parse(variable_first.Text.Replace(".", ","));
             double pow = double.Parse(variable_second.Text.Replace(".", ","));
