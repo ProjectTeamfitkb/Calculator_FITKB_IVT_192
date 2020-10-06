@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Plus_Cal;
-
+using Pow;
 namespace Calculator
 {
     /// <summary>
@@ -34,10 +34,12 @@ namespace Calculator
             Output.Text = $"{result}";
         }
 
-        private void Exponentiation_Click(object sender, RoutedEventArgs e)
+        private void Exponentiation_Click_1(object sender, RoutedEventArgs e)
         {
-
+            double number = double.Parse(variable_first.Text.Replace(".", ","));
+            double pow = double.Parse(variable_second.Text.Replace(".", ","));
+            double result = Pow.Pow.FuncPlus(number, pow);
+            Output.Text = $"{result}";
         }
-
     }
 }
