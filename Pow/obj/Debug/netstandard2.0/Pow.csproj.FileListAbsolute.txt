@@ -1,0 +1,8 @@
+B:\Git\Calculator_FITKB_IVT_192\Pow\bin\Debug\netstandard2.0\Pow.deps.json
+B:\Git\Calculator_FITKB_IVT_192\Pow\bin\Debug\netstandard2.0\Pow.dll
+B:\Git\Calculator_FITKB_IVT_192\Pow\bin\Debug\netstandard2.0\Pow.pdb
+B:\Git\Calculator_FITKB_IVT_192\Pow\obj\Debug\netstandard2.0\Pow.AssemblyInfoInputs.cache
+B:\Git\Calculator_FITKB_IVT_192\Pow\obj\Debug\netstandard2.0\Pow.AssemblyInfo.cs
+B:\Git\Calculator_FITKB_IVT_192\Pow\obj\Debug\netstandard2.0\Pow.csproj.CoreCompileInputs.cache
+B:\Git\Calculator_FITKB_IVT_192\Pow\obj\Debug\netstandard2.0\Pow.dll
+B:\Git\Calculator_FITKB_IVT_192\Pow\obj\Debug\netstandard2.0\Pow.pdb
