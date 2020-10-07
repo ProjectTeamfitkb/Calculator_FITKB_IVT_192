@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Plus_Cal;
+using Factorial_Cal;
 
 namespace Calculator
 {
@@ -39,5 +40,11 @@ namespace Calculator
 
         }
 
+        private void Factorial_Click(object sender, RoutedEventArgs e)
+        {
+            double x = double.Parse(variable_first.Text.Replace(".", ","));
+            double result = Factorial_Cal.Factorial.FuncFactorial(x);
+            Output.Text = Convert.ToString(result);
+        }
     }
 }
