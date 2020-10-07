@@ -39,5 +39,12 @@ namespace Calculator
 
         }
 
+        private void Multiplication_Click(object sender, RoutedEventArgs e)
+        {
+            double x = double.Parse(variable_first.Text.Replace(".", ","));
+            double y = double.Parse(variable_second.Text.Replace(".", ","));
+            double result = MyLib.multiplication.Multiplication(x, y);
+            Output.Text = $"{result}";
+        }
     }
 }

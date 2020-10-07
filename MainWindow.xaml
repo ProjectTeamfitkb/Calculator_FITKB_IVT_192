@@ -21,7 +21,7 @@
         <Button x:Name="Exponentiation" Content="X^" HorizontalAlignment="Left" Margin="61,0,0,191" Width="75" FontFamily="Stencil" FontSize="36" Height="54" VerticalAlignment="Bottom" Grid.Column="1" />
         <TextBox x:Name="Output" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="44" Margin="305,329,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" FontSize="36" Background="#FFDF7777" />
         <TextBlock HorizontalAlignment="Left" Margin="170,0,0,47" TextWrapping="Wrap" Text="Ответ" FontSize="36" FontFamily="Tahoma" RenderTransformOrigin="0.105,0.005" Height="44" VerticalAlignment="Bottom" Width="97"/>
-        <Button x:Name="Multiplication" Content="*" HorizontalAlignment="Left" Margin="245,0,0,191" VerticalAlignment="Bottom" Width="75" FontFamily="Showcard Gothic" FontSize="36" Height="54"/>
+        <Button x:Name="Multiplication" Content="*" HorizontalAlignment="Left" Margin="245,0,0,191" VerticalAlignment="Bottom" Width="75" FontFamily="Showcard Gothic" FontSize="36" Height="54" Click="Multiplication_Click"/>
         <Button x:Name="Division" Content="/" HorizontalAlignment="Left" Margin="345,0,0,191" Width="75" FontFamily="Stencil" FontSize="36" Height="54" VerticalAlignment="Bottom" Grid.ColumnSpan="2" />
         <Button x:Name="Logarithm" Content="Log" HorizontalAlignment="Left" Margin="155,0,0,191" Width="75" FontFamily="Stencil" FontSize="36" Height="54" VerticalAlignment="Bottom" Grid.Column="1" />
         <Button x:Name="Radical1" Content="√" HorizontalAlignment="Left" Margin="250,0,0,191" Width="75" FontFamily="Stencil" FontSize="36" Height="54" VerticalAlignment="Bottom" Grid.Column="1" />
