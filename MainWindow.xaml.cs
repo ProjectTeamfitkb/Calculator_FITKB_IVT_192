@@ -38,7 +38,7 @@ namespace Calculator
         {
             double number = double.Parse(variable_first.Text.Replace(".", ","));
             double pow = double.Parse(variable_second.Text.Replace(".", ","));
-            double result = Pow.Pow.FuncPlus(number, pow);
+            double result = Pow.Pow.pow(number, pow);
             Output.Text = $"{result}";
         }
     }
