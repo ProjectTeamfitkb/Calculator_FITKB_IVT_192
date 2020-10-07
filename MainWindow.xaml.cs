@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Plus_Cal;
+using Radical_Cal; 
 
 namespace Calculator
 {
@@ -39,5 +40,17 @@ namespace Calculator
 
         }
 
+        private void Radical1_Click(object sender, RoutedEventArgs e)
+        {
+            double chislo = double.Parse(variable_first.Text.Replace(".", ","));
+            double stepen = double.Parse(variable_second.Text.Replace(".", ","));
+            double result = Radical_Cal.Radical.FuncRadical(chislo, stepen);
+            Output.Text = $"{result}";
+        }
+
+        private void Logarithm_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

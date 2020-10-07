@@ -126,6 +126,10 @@
       <Project>{c1a863bc-63f5-4222-829a-3494b3b6f411}</Project>
       <Name>Plus</Name>
     </ProjectReference>
+    <ProjectReference Include="Radical\Radical.csproj">
+      <Project>{285c05be-fadf-498f-b98c-1125b384fe8b}</Project>
+      <Name>Radical</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
