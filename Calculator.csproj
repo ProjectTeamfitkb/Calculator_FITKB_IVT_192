@@ -122,6 +122,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="DivisionLibrary\DivisionLibrary.csproj">
+      <Project>{ccfa91d6-1d3f-4301-9a2a-ccbadfd791d0}</Project>
+      <Name>DivisionLibrary</Name>
+    </ProjectReference>
     <ProjectReference Include="Plus\Plus.csproj">
       <Project>{c1a863bc-63f5-4222-829a-3494b3b6f411}</Project>
       <Name>Plus</Name>
