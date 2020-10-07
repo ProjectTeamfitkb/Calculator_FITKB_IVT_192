@@ -1,0 +1,8 @@
+D:\Programs\source\repos\Factorial\bin\Release\netstandard2.0\Factorial.deps.json
+D:\Programs\source\repos\Factorial\bin\Release\netstandard2.0\Factorial.dll
+D:\Programs\source\repos\Factorial\bin\Release\netstandard2.0\Factorial.pdb
+D:\Programs\source\repos\Factorial\obj\Release\netstandard2.0\Factorial.AssemblyInfoInputs.cache
+D:\Programs\source\repos\Factorial\obj\Release\netstandard2.0\Factorial.AssemblyInfo.cs
+D:\Programs\source\repos\Factorial\obj\Release\netstandard2.0\Factorial.csproj.CoreCompileInputs.cache
+D:\Programs\source\repos\Factorial\obj\Release\netstandard2.0\Factorial.dll
+D:\Programs\source\repos\Factorial\obj\Release\netstandard2.0\Factorial.pdb
