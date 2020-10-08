@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Git\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj": {}
+    "B:\\Git\\Calculator_FITKB_IVT_192\\Pow\\Pow.csproj": {}
   },
   "projects": {
-    "B:\\Git\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj": {
+    "B:\\Git\\Calculator_FITKB_IVT_192\\Pow\\Pow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Git\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
-        "projectName": "Plus",
-        "projectPath": "B:\\Git\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
+        "projectUniqueName": "B:\\Git\\Calculator_FITKB_IVT_192\\Pow\\Pow.csproj",
+        "projectName": "Pow",
+        "projectPath": "B:\\Git\\Calculator_FITKB_IVT_192\\Pow\\Pow.csproj",
         "packagesPath": "C:\\Users\\miha2\\.nuget\\packages\\",
-        "outputPath": "B:\\Git\\Calculator_FITKB_IVT_192\\Plus\\obj\\",
+        "outputPath": "B:\\Git\\Calculator_FITKB_IVT_192\\Pow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miha2\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -126,6 +126,10 @@
       <Project>{c1a863bc-63f5-4222-829a-3494b3b6f411}</Project>
       <Name>Plus</Name>
     </ProjectReference>
+    <ProjectReference Include="Pow\Pow.csproj">
+      <Project>{16f2a550-c9cb-4e4d-9f95-a2905994aa7e}</Project>
+      <Name>Pow</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

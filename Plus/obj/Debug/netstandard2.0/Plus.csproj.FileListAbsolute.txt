@@ -16,3 +16,12 @@ C:\Users\Dell\Documents\GIT\Calculator\Calculator_FITKB_IVT_192\Plus\obj\Debug\n
 C:\Users\Dell\Documents\GIT\Calculator\Calculator_FITKB_IVT_192\Plus\obj\Debug\netstandard2.0\Plus.AssemblyInfo.cs
 C:\Users\Dell\Documents\GIT\Calculator\Calculator_FITKB_IVT_192\Plus\obj\Debug\netstandard2.0\Plus.dll
 C:\Users\Dell\Documents\GIT\Calculator\Calculator_FITKB_IVT_192\Plus\obj\Debug\netstandard2.0\Plus.pdb
+B:\Git\Calculator_FITKB_IVT_192\Plus\bin\Debug\netstandard2.0\Plus.deps.json
+B:\Git\Calculator_FITKB_IVT_192\Plus\bin\Debug\netstandard2.0\Plus.dll
+B:\Git\Calculator_FITKB_IVT_192\Plus\bin\Debug\netstandard2.0\Plus.pdb
+B:\Git\Calculator_FITKB_IVT_192\Plus\obj\Debug\netstandard2.0\Plus.csprojAssemblyReference.cache
+B:\Git\Calculator_FITKB_IVT_192\Plus\obj\Debug\netstandard2.0\Plus.AssemblyInfoInputs.cache
+B:\Git\Calculator_FITKB_IVT_192\Plus\obj\Debug\netstandard2.0\Plus.AssemblyInfo.cs
+B:\Git\Calculator_FITKB_IVT_192\Plus\obj\Debug\netstandard2.0\Plus.csproj.CoreCompileInputs.cache
+B:\Git\Calculator_FITKB_IVT_192\Plus\obj\Debug\netstandard2.0\Plus.dll
+B:\Git\Calculator_FITKB_IVT_192\Plus\obj\Debug\netstandard2.0\Plus.pdb

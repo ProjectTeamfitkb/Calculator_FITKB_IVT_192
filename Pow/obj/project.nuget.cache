@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yiArX4ESV4QI7JaI4LrsLNGlVtrsJRNvRhZOrSg7EBlJ5UNidTi01qaOq9SQCj6lfiMXMLjJEaYQXsDg+DN+6A==",
+  "success": true,
+  "projectFilePath": "B:\\Git\\Calculator_FITKB_IVT_192\\Pow\\Pow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miha2\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\miha2\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
