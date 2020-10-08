@@ -6,10 +6,8 @@ namespace Pow
     {
         public static double pow(double number, double pow)
         {
-            
          double result = Math.Pow(number, pow);
-        return result;
-            
+         return result;
         }    
 
     }
