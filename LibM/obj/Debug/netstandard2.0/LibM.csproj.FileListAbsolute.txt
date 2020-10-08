@@ -1,0 +1,8 @@
+B:\Git2\Calculator_FITKB_IVT_192-master\LibM\bin\Debug\netstandard2.0\LibM.deps.json
+B:\Git2\Calculator_FITKB_IVT_192-master\LibM\bin\Debug\netstandard2.0\LibM.dll
+B:\Git2\Calculator_FITKB_IVT_192-master\LibM\bin\Debug\netstandard2.0\LibM.pdb
+B:\Git2\Calculator_FITKB_IVT_192-master\LibM\obj\Debug\netstandard2.0\LibM.AssemblyInfoInputs.cache
+B:\Git2\Calculator_FITKB_IVT_192-master\LibM\obj\Debug\netstandard2.0\LibM.AssemblyInfo.cs
+B:\Git2\Calculator_FITKB_IVT_192-master\LibM\obj\Debug\netstandard2.0\LibM.csproj.CoreCompileInputs.cache
+B:\Git2\Calculator_FITKB_IVT_192-master\LibM\obj\Debug\netstandard2.0\LibM.dll
+B:\Git2\Calculator_FITKB_IVT_192-master\LibM\obj\Debug\netstandard2.0\LibM.pdb

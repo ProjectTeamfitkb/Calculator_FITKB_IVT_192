@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lfuEEVaKw+VMj804qcwrKEEyAmQaZVUTmfuWOwTpB9upeLxP7hS2ceUTiLo8VnMpLjkZXdDLwt9HmJb62ZJ/RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\папки\\Calculator_FITKB_IVT_192-master\\Calculator_FITKB_IVT_192-master\\LibM\\Minus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

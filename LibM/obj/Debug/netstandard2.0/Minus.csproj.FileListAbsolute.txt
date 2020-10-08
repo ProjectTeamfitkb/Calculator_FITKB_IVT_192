@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\папки\Calculator_FITKB_IVT_192-master\Calculator_FITKB_IVT_192-master\LibM\bin\Debug\netstandard2.0\Minus.deps.json
+C:\Users\User\Desktop\папки\Calculator_FITKB_IVT_192-master\Calculator_FITKB_IVT_192-master\LibM\bin\Debug\netstandard2.0\Minus.dll
+C:\Users\User\Desktop\папки\Calculator_FITKB_IVT_192-master\Calculator_FITKB_IVT_192-master\LibM\bin\Debug\netstandard2.0\Minus.pdb
+C:\Users\User\Desktop\папки\Calculator_FITKB_IVT_192-master\Calculator_FITKB_IVT_192-master\LibM\obj\Debug\netstandard2.0\Minus.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\папки\Calculator_FITKB_IVT_192-master\Calculator_FITKB_IVT_192-master\LibM\obj\Debug\netstandard2.0\Minus.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\папки\Calculator_FITKB_IVT_192-master\Calculator_FITKB_IVT_192-master\LibM\obj\Debug\netstandard2.0\Minus.AssemblyInfo.cs
+C:\Users\User\Desktop\папки\Calculator_FITKB_IVT_192-master\Calculator_FITKB_IVT_192-master\LibM\obj\Debug\netstandard2.0\Minus.dll
+C:\Users\User\Desktop\папки\Calculator_FITKB_IVT_192-master\Calculator_FITKB_IVT_192-master\LibM\obj\Debug\netstandard2.0\Minus.pdb

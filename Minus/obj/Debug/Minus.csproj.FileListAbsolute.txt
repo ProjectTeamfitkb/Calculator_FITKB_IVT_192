@@ -1,0 +1,6 @@
+B:\Git2\Calculator_FITKB_IVT_192-master\Minus\bin\Debug\Minus.dll
+B:\Git2\Calculator_FITKB_IVT_192-master\Minus\bin\Debug\Minus.pdb
+B:\Git2\Calculator_FITKB_IVT_192-master\Minus\obj\Debug\Minus.csprojAssemblyReference.cache
+B:\Git2\Calculator_FITKB_IVT_192-master\Minus\obj\Debug\Minus.csproj.CoreCompileInputs.cache
+B:\Git2\Calculator_FITKB_IVT_192-master\Minus\obj\Debug\Minus.dll
+B:\Git2\Calculator_FITKB_IVT_192-master\Minus\obj\Debug\Minus.pdb
