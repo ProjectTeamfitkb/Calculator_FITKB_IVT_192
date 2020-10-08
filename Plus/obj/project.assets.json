@@ -50,6 +50,7 @@
       "path": "netstandard.library/2.0.3",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -179,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\miha2\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Git\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
+      "projectUniqueName": "D:\\Download\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
       "projectName": "Plus",
-      "projectPath": "B:\\Git\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
-      "packagesPath": "C:\\Users\\miha2\\.nuget\\packages\\",
-      "outputPath": "B:\\Git\\Calculator_FITKB_IVT_192\\Plus\\obj\\",
+      "projectPath": "D:\\Download\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Download\\Calculator_FITKB_IVT_192\\Plus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\miha2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -235,5 +236,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша D:\\Download\\Calculator_FITKB_IVT_192\\Plus\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

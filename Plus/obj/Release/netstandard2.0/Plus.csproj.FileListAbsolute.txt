@@ -1,0 +1,9 @@
+D:\Download\Calculator_FITKB_IVT_192\Plus\bin\Release\netstandard2.0\Plus.deps.json
+D:\Download\Calculator_FITKB_IVT_192\Plus\bin\Release\netstandard2.0\Plus.dll
+D:\Download\Calculator_FITKB_IVT_192\Plus\bin\Release\netstandard2.0\Plus.pdb
+D:\Download\Calculator_FITKB_IVT_192\Plus\obj\Release\netstandard2.0\Plus.csprojAssemblyReference.cache
+D:\Download\Calculator_FITKB_IVT_192\Plus\obj\Release\netstandard2.0\Plus.AssemblyInfoInputs.cache
+D:\Download\Calculator_FITKB_IVT_192\Plus\obj\Release\netstandard2.0\Plus.AssemblyInfo.cs
+D:\Download\Calculator_FITKB_IVT_192\Plus\obj\Release\netstandard2.0\Plus.csproj.CoreCompileInputs.cache
+D:\Download\Calculator_FITKB_IVT_192\Plus\obj\Release\netstandard2.0\Plus.dll
+D:\Download\Calculator_FITKB_IVT_192\Plus\obj\Release\netstandard2.0\Plus.pdb

@@ -1,0 +1,6 @@
+D:\Download\Calculator_FITKB_IVT_192\DivisionLibrary\bin\Release\DivisionLibrary.dll
+D:\Download\Calculator_FITKB_IVT_192\DivisionLibrary\bin\Release\DivisionLibrary.pdb
+D:\Download\Calculator_FITKB_IVT_192\DivisionLibrary\obj\Release\DivisionLibrary.csprojAssemblyReference.cache
+D:\Download\Calculator_FITKB_IVT_192\DivisionLibrary\obj\Release\DivisionLibrary.csproj.CoreCompileInputs.cache
+D:\Download\Calculator_FITKB_IVT_192\DivisionLibrary\obj\Release\DivisionLibrary.dll
+D:\Download\Calculator_FITKB_IVT_192\DivisionLibrary\obj\Release\DivisionLibrary.pdb
