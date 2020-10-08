@@ -40,6 +40,7 @@ namespace Calculator
             double pow = double.Parse(variable_second.Text.Replace(".", ","));
             double result = Pow.Pow.pow(number, pow);
             Output.Text = $"{result}";
+
         }
     }
 }
