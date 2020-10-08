@@ -122,6 +122,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="LibM\Minus.csproj">
+      <Project>{0bcb60ce-4ecb-4f96-8267-391ef0ef0575}</Project>
+      <Name>Minus</Name>
+    </ProjectReference>
     <ProjectReference Include="Plus\Plus.csproj">
       <Project>{c1a863bc-63f5-4222-829a-3494b3b6f411}</Project>
       <Name>Plus</Name>

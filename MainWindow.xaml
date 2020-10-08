@@ -17,7 +17,7 @@
         <TextBox x:Name="variable_first" HorizontalAlignment="Left" Height="37" Margin="36,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" FontSize="24"/>
         <TextBox x:Name="variable_second" HorizontalAlignment="Left" Height="37" Margin="103,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" Grid.Column="1" FontSize="24"/>
         <Button x:Name="Plus" Content="+" HorizontalAlignment="Left" Margin="51,175,0,0" VerticalAlignment="Top" Width="75" FontFamily="Showcard Gothic" FontSize="36" Height="54" Click="Plus_Click"/>
-        <Button x:Name="Minus" Content="-" HorizontalAlignment="Left" Margin="150,0,0,191" VerticalAlignment="Bottom" Width="75" FontFamily="Showcard Gothic" FontSize="36" Height="54"/>
+        <Button x:Name="Minus" Content="-" HorizontalAlignment="Left" Margin="150,0,0,191" VerticalAlignment="Bottom" Width="75" FontFamily="Showcard Gothic" FontSize="36" Height="54" Click="Minus_Click"/>
         <Button x:Name="Exponentiation" Content="X^" HorizontalAlignment="Left" Margin="61,0,0,191" Width="75" FontFamily="Stencil" FontSize="36" Height="54" VerticalAlignment="Bottom" Grid.Column="1" />
         <TextBox x:Name="Output" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="44" Margin="305,329,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" FontSize="36" Background="#FFDF7777" />
         <TextBlock HorizontalAlignment="Left" Margin="170,0,0,47" TextWrapping="Wrap" Text="Ответ" FontSize="36" FontFamily="Tahoma" RenderTransformOrigin="0.105,0.005" Height="44" VerticalAlignment="Bottom" Width="97"/>

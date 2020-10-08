@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Plus_Cal;
-
+using LibM;
 namespace Calculator
 {
     /// <summary>
@@ -39,5 +39,12 @@ namespace Calculator
 
         }
 
+        private void Minus_Click(object sender, RoutedEventArgs e)
+        {
+            double x = double.Parse(variable_first.Text.Replace(".", ","));
+            double y = double.Parse(variable_second.Text.Replace(".", ","));
+            double result = LibM.Minus.Min(x, y);
+            Output.Text = $"{result}";
+        }
     }
 }
