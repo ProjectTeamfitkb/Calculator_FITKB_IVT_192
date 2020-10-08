@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DeathHand\\Desktop\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj": {}
+    "C:\\Users\\DeathHand\\source\\repos\\X\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DeathHand\\Desktop\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj": {
+    "C:\\Users\\DeathHand\\source\\repos\\X\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DeathHand\\Desktop\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
+        "projectUniqueName": "C:\\Users\\DeathHand\\source\\repos\\X\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
         "projectName": "Plus",
-        "projectPath": "C:\\Users\\DeathHand\\Desktop\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
+        "projectPath": "C:\\Users\\DeathHand\\source\\repos\\X\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
         "packagesPath": "C:\\Users\\DeathHand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DeathHand\\Desktop\\Calculator_FITKB_IVT_192\\Plus\\obj\\",
+        "outputPath": "C:\\Users\\DeathHand\\source\\repos\\X\\Calculator_FITKB_IVT_192\\Plus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DeathHand\\AppData\\Roaming\\NuGet\\NuGet.Config",

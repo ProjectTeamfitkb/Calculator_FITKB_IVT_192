@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Plus_Cal;
+using Multilib;
 
 namespace Calculator
 {
@@ -43,7 +44,7 @@ namespace Calculator
         {
             double x = double.Parse(variable_first.Text.Replace(".", ","));
             double y = double.Parse(variable_second.Text.Replace(".", ","));
-            double result = MyLib.multiplication.Multiplication(x, y);
+            double result = Multilib.Multi_Lib.Multip(x, y);
             Output.Text = $"{result}";
         }
     }

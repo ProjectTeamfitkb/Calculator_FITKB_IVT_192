@@ -1,0 +1,8 @@
+C:\Users\DeathHand\source\repos\X\Calculator_FITKB_IVT_192\Multilib\bin\Debug\netstandard2.0\Multilib.deps.json
+C:\Users\DeathHand\source\repos\X\Calculator_FITKB_IVT_192\Multilib\bin\Debug\netstandard2.0\Multilib.dll
+C:\Users\DeathHand\source\repos\X\Calculator_FITKB_IVT_192\Multilib\bin\Debug\netstandard2.0\Multilib.pdb
+C:\Users\DeathHand\source\repos\X\Calculator_FITKB_IVT_192\Multilib\obj\Debug\netstandard2.0\Multilib.AssemblyInfoInputs.cache
+C:\Users\DeathHand\source\repos\X\Calculator_FITKB_IVT_192\Multilib\obj\Debug\netstandard2.0\Multilib.AssemblyInfo.cs
+C:\Users\DeathHand\source\repos\X\Calculator_FITKB_IVT_192\Multilib\obj\Debug\netstandard2.0\Multilib.csproj.CoreCompileInputs.cache
+C:\Users\DeathHand\source\repos\X\Calculator_FITKB_IVT_192\Multilib\obj\Debug\netstandard2.0\Multilib.dll
+C:\Users\DeathHand\source\repos\X\Calculator_FITKB_IVT_192\Multilib\obj\Debug\netstandard2.0\Multilib.pdb

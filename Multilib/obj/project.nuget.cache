@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sPtbJgtn3v//4o6ogNnyw4um6y8aJPkAZz1U2hcL/rjlw5xBkxY8rIFJLpLRnPwNczwnMGpcUJ84BPHdenkqrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DeathHand\\source\\repos\\X\\Calculator_FITKB_IVT_192\\Multilib\\Multilib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DeathHand\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DeathHand\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

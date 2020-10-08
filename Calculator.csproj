@@ -50,10 +50,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MyLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\MyLib.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -126,6 +122,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Multilib\Multilib.csproj">
+      <Project>{80968bc7-d026-4905-a7b5-b8cfe93c92ab}</Project>
+      <Name>Multilib</Name>
+    </ProjectReference>
     <ProjectReference Include="Plus\Plus.csproj">
       <Project>{c1a863bc-63f5-4222-829a-3494b3b6f411}</Project>
       <Name>Plus</Name>
