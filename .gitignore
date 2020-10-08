@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 .vs/Calculator/v16/.suo
 Plus/obj/Debug/netstandard2.0/Plus.csprojAssemblyReference.cache
 .vs/Calculator/DesignTimeBuild/.dtbcache.v2
@@ -25,4 +26,8 @@ obj/Debug/Calculator.csproj.CopyComplete
 obj/Debug/Calculator.csproj.CoreCompileInputs.cache
 obj/Debug/App.g.cs
 obj/Debug/App.g.i.cs
+=======
+bin/Debug/Pow.dll
+bin/Debug/Pow.pdb
+>>>>>>> master
 obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
