@@ -14,6 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Plus_Cal;
 
+
 namespace Calculator
 {
     /// <summary>
@@ -39,5 +40,21 @@ namespace Calculator
 
         }
 
+        private void Module_Click(object sender, RoutedEventArgs e)
+        {
+            Double.TryParse(variable_first.Text, out double resultA); //проверка введенных значений
+            if (resultA == 0) // 0 возвращается после проверки если: ничего не ввели, ввели неправильно, ввели 0
+            {
+                MessageBox.Show("Enter the numbers!\n (second value can't be zero)");
+            }
+            else
+            {
+                double A = Convert.ToDouble(variable_first.Text);
+
+                double Result = ClassLibrary.Class1.Module(A);
+
+                Output.Text = Convert.ToString(Result);
+            }
+        }
     }
 }
