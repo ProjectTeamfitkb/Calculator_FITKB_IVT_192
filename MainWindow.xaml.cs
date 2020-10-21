@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Plus_Cal;
+using Pow;
 using Factorial_Cal;
 
 namespace Calculator
@@ -37,7 +38,28 @@ namespace Calculator
 
         private void Exponentiation_Click(object sender, RoutedEventArgs e)
         {
+            double number = double.Parse(variable_first.Text.Replace(".", ","));
+            double pow = double.Parse(variable_second.Text.Replace(".", ","));
+            double result = Pow.Pow.pow1(number, pow);
+            Output.Text = $"{result}";
 
+        }
+
+
+        private void Division_Click(object sender, RoutedEventArgs e)
+        {
+            Double.TryParse(variable_first.Text, out double resultA); //проверка введенных значений
+            Double.TryParse(variable_second.Text, out double resultB);
+            if (resultA == 0 || resultB == 0) // 0 возвращается после проверки если: ничего не ввели, ввели неправильно, ввели 0
+            {
+                MessageBox.Show("Введите числа!\n(второе не должно равняться нулю)");
+            }
+            else
+            {
+                double A = Convert.ToDouble(variable_first.Text), B = Convert.ToDouble(variable_second.Text);
+                double Result = DivisionLibrary.Class1.Division(A, B);
+                Output.Text = Convert.ToString(Result);
+            }
         }
 
         private void Factorial_Click(object sender, RoutedEventArgs e)

@@ -122,9 +122,21 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="D:\Programs\source\repos\Factorial\Factorial.csproj">
+      <Project>{2ba2e1b9-5675-4c78-9362-773013107c2d}</Project>
+      <Name>Factorial</Name>
+    </ProjectReference>
+    <ProjectReference Include="DivisionLibrary\DivisionLibrary.csproj">
+      <Project>{ccfa91d6-1d3f-4301-9a2a-ccbadfd791d0}</Project>
+      <Name>DivisionLibrary</Name>
+    </ProjectReference>
     <ProjectReference Include="Plus\Plus.csproj">
       <Project>{c1a863bc-63f5-4222-829a-3494b3b6f411}</Project>
       <Name>Plus</Name>
+    </ProjectReference>
+    <ProjectReference Include="Pow\Pow.csproj">
+      <Project>{16f2a550-c9cb-4e4d-9f95-a2905994aa7e}</Project>
+      <Name>Pow</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
