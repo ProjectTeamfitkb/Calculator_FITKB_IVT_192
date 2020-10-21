@@ -1,0 +1,9 @@
+D:\Download\Calculator_FITKB_IVT_192\Pow\bin\Release\netstandard2.0\Pow.deps.json
+D:\Download\Calculator_FITKB_IVT_192\Pow\bin\Release\netstandard2.0\Pow.dll
+D:\Download\Calculator_FITKB_IVT_192\Pow\bin\Release\netstandard2.0\Pow.pdb
+D:\Download\Calculator_FITKB_IVT_192\Pow\obj\Release\netstandard2.0\Pow.csprojAssemblyReference.cache
+D:\Download\Calculator_FITKB_IVT_192\Pow\obj\Release\netstandard2.0\Pow.AssemblyInfoInputs.cache
+D:\Download\Calculator_FITKB_IVT_192\Pow\obj\Release\netstandard2.0\Pow.AssemblyInfo.cs
+D:\Download\Calculator_FITKB_IVT_192\Pow\obj\Release\netstandard2.0\Pow.csproj.CoreCompileInputs.cache
+D:\Download\Calculator_FITKB_IVT_192\Pow\obj\Release\netstandard2.0\Pow.dll
+D:\Download\Calculator_FITKB_IVT_192\Pow\obj\Release\netstandard2.0\Pow.pdb

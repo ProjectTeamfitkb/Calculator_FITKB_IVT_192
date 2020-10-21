@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Plus")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Plus")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Plus")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pow")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

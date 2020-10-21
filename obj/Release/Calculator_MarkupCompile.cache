@@ -4,11 +4,16 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\DeathHand\Desktop\Calculator_FITKB_IVT_192\obj\Release\
+=======
+D:\Download\Calculator_FITKB_IVT_192\obj\Release\
+>>>>>>> master
 Calculator
 none
 false
 TRACE
+<<<<<<< HEAD
 C:\Users\DeathHand\Desktop\Calculator_FITKB_IVT_192\App.xaml
 11151548125
 
@@ -17,4 +22,14 @@ C:\Users\DeathHand\Desktop\Calculator_FITKB_IVT_192\App.xaml
 MainWindow.xaml;
 
 True
+=======
+D:\Download\Calculator_FITKB_IVT_192\App.xaml
+11151548125
+
+5-2017746502
+17857775620
+MainWindow.xaml;
+
+False
+>>>>>>> master
 

@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "+evc9RWcf9JX2uMRWFn+vnaeFmcjDhcikYE5DTwqFzqrm7SXAAwFQq4xWWUBhGogP+4mJd9wKQfMfgpZisV19w==",
   "success": true,
   "projectFilePath": "C:\\Users\\DeathHand\\source\\repos\\X\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
@@ -8,4 +9,21 @@
     "C:\\Users\\DeathHand\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
+=======
+  "dgSpecHash": "VpN+1wYu82Dkc/30NnMyqG4NrXRMfgP1ylfa5gM6u4eqiiowHFWGDNJmqQRvYsOPGDp2IaAXagH3P9l469iXAg==",
+  "success": true,
+  "projectFilePath": "D:\\Download\\Calculator_FITKB_IVT_192\\Plus\\Plus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша D:\\Download\\Calculator_FITKB_IVT_192\\Plus\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+>>>>>>> master
 }
