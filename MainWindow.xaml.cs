@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Plus_Cal;
-using LibM;
+using MinusLib;
 namespace Calculator
 {
     /// <summary>
@@ -43,7 +43,7 @@ namespace Calculator
         {
             double x = double.Parse(variable_first.Text.Replace(".", ","));
             double y = double.Parse(variable_second.Text.Replace(".", ","));
-            double result = LibM.Minus.Min(x, y);
+            double result = MinusLib.Class1.Min(x, y);
             Output.Text = $"{result}";
         }
     }
