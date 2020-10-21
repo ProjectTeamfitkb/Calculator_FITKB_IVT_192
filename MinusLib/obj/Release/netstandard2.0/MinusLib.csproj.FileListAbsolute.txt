@@ -1,0 +1,9 @@
+C:\Users\User\Pictures\Calculator_FITKB_IVT_192\MinusLib\bin\Release\netstandard2.0\MinusLib.deps.json
+C:\Users\User\Pictures\Calculator_FITKB_IVT_192\MinusLib\bin\Release\netstandard2.0\MinusLib.dll
+C:\Users\User\Pictures\Calculator_FITKB_IVT_192\MinusLib\bin\Release\netstandard2.0\MinusLib.pdb
+C:\Users\User\Pictures\Calculator_FITKB_IVT_192\MinusLib\obj\Release\netstandard2.0\MinusLib.csprojAssemblyReference.cache
+C:\Users\User\Pictures\Calculator_FITKB_IVT_192\MinusLib\obj\Release\netstandard2.0\MinusLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\Calculator_FITKB_IVT_192\MinusLib\obj\Release\netstandard2.0\MinusLib.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\Calculator_FITKB_IVT_192\MinusLib\obj\Release\netstandard2.0\MinusLib.AssemblyInfo.cs
+C:\Users\User\Pictures\Calculator_FITKB_IVT_192\MinusLib\obj\Release\netstandard2.0\MinusLib.dll
+C:\Users\User\Pictures\Calculator_FITKB_IVT_192\MinusLib\obj\Release\netstandard2.0\MinusLib.pdb
