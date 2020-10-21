@@ -1,0 +1,6 @@
+D:\1. Программирование\Среды визуального программирования\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\1. Программирование\Среды визуального программирования\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\1. Программирование\Среды визуального программирования\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\1. Программирование\Среды визуального программирования\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\1. Программирование\Среды визуального программирования\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\1. Программирование\Среды визуального программирования\ClassLibrary\obj\Debug\ClassLibrary.pdb
